@@ -26,6 +26,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/velog?style=flat-square&logo=github&link=https://velog.io/@howl126/posts)](https://velog.io/@howl126/posts)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:howl1265@gmail.com)](mailto:howl1265@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=green&link=https://velog.io/@howl126/posts)](https://velog.io/@howl126/posts)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:howl1265@gmail.cm)](mailto:howl1265@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:howl126@naver.com)](mailto:howl126@naver.com)
